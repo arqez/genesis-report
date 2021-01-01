@@ -17,6 +17,6 @@
 <p align="center">
 <a href="https://discord.gg/catgirls">Catgirls Server</a>
  | <a href="https://catgirls.wtf">Catgirls Site</a>
-</p
-<h1>Also</h1>
+</p>
+<h1 align="center">Also</h1>
 <p>The file size is big because of obfuscation, didnt wanna leak source code :/</p>
