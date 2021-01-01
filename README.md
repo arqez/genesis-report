@@ -13,6 +13,3 @@
  | <a href="https://discord.gg/dior">Discord Server</a>
  | <a href="https://catgirls.wtf">Catgirls</a>
 </p>
-<div id="copyright">
-	<p align="center"><a><br>Version 1.0</br>Copyright (c) 2069 Sipher</a><a href="siph-er" target="_blank"><br>github.com/siph-er</br></a></p>
-</div>
