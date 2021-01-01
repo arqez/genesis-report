@@ -5,7 +5,7 @@
 </p>
 <p align="center"><img src="https://send.thigh.pics/raw/emeFd2D1D.png"></p>
 <p align="center">
-	<h7>If you want to report a message in a DM Channel or a Group Channel, the Guild ID and Channel ID must be the same.</h7>
+	<h7>If you want to report a message in a DM Channel or a Group Channel, the Guild ID and Channel ID must be the same. In the genesis.rar file, you will find a tokens.txt file. In here you can put multiple tokens, then make the parameter for token the name of the file, in order to use each token to report.</h7>
 </p>
 <h1 align="center">Sipher's info</h1>
 <p align="center">
