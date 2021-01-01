@@ -13,3 +13,8 @@
  | <a href="https://discord.gg/dior">Discord Server</a>
  | <a href="https://catgirls.wtf">Catgirls</a>
 </p>
+<h1 align="center">And These:</h1>
+<p align="center">
+<a href="https://discord.gg/catgirls">Catgirls Server</a>
+ | <a href="https://catgirls.wtf">Catgirls Site</a>
+</p
